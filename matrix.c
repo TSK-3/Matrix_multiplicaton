@@ -28,7 +28,7 @@ int main() {
 
     for(int i=0;i<p;i++) {
         for(int j=0;j<q;j++){
-            scanf("%d%d",&mat_b[i][j]);
+            scanf("%d",&mat_b[i][j]);
         }
     }
 
